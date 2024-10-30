@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boobook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-16 14:37+0000\n"
+"PO-Revision-Date: 2016-10-16 14:38+0000\n"
+"Last-Translator: Xuan Luong Nguyen <dev.xuxu@gmail.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: template/connect.php:63 template/connect.php:81
+msgid "Facebook SDK returned an error: "
+msgstr "SDK Facebook a retourné une erreur : "
+
+#: template/connect.php:68
+msgid "No cookie set or no OAuth data could be obtained from cookie."
+msgstr ""
+"Aucun cookie présent ou aucune donnée OAuth n'a pu être extraite depuis le "
+"cookie."
+
+#: template/connect.php:77
+msgid "Graph returned an error: "
+msgstr "Graph a retourné une erreur : "
+
+#: library/functions.php:6 library/functions.php:17
+msgid "Boobook settings"
+msgstr "Réglages Boobook"
+
+#. Name of the plugin
+#: library/functions.php:6
+msgid "Boobook"
+msgstr "Boobook"
+
+#: library/functions.php:25
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: library/functions.php:31
+msgid "FB App Secret"
+msgstr "FB App Secret"
+
+#: library/functions.php:37
+msgid "Default user role when created"
+msgstr "Rôle par défaut de l'utilisateur à sa création"
+
+#: library/functions.php:53
+msgid "FB Scopes"
+msgstr "FB Scopes"
+
+#: library/functions.php:63
+msgid "Receive an email when an user was created"
+msgstr "Recevoir un email à chaque création d'un utilisateur"
+
+#: library/functions.php:73
+msgid "Redirect URL after login"
+msgstr "Adresse de redirection après connexion"
+
+#: library/functions.php:77
+msgid "If empty, the person will be redirected to the previous page"
+msgstr "Si vide, la personne sera redirigé vers la page précédente"
+
+#: library/functions.php:81
+msgid "Redirect URL after logout"
+msgstr "Adresse de redirection après déconnexion"
+
+#: library/functions.php:85
+msgid ""
+"If empty, the person will be redirected to the site root &laquo;/&raquo;"
+msgstr ""
+"Si vide, la personne sera redirigé vers la racine du site &laquo;/&raquo;"
+
+#: library/functions.php:91
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: library/functions.php:183 widgets/connect.php:72
+msgid "Login"
+msgstr "Se connecter"
+
+#: template/connect.php:131
+msgid "A new user just subscribed with Boobook."
+msgstr "Un nouvel utilisateur vient de s'inscrire avec Boobook."
+
+#: template/connect.php:133
+msgid "Name"
+msgstr "Nom"
+
+#: template/connect.php:135
+msgid "New user registered"
+msgstr "Nouvel utilisateur inscrit"
+
+#: template/connect.php:246
+msgid "Error, the Facebook API does not sent any informations"
+msgstr "Erreur, l'API Facebook n'a ramené aucune information"
+
+#: template/connect.php:250
+msgid "Parameters missing"
+msgstr "Paramètres manquants"
+
+#: widgets/connect.php:47
+msgid "Logout"
+msgstr "Se déconnecter"
+
+#: widgets/connect.php:72
+msgid "Connect with Facebook"
+msgstr "Se connecter avec Facebook"
+
+#. Description of the plugin
+msgid "Boobook, Another Facebook Connect for WordPress"
+msgstr ""
+"Boobook, un autre moyen de se connecter avec Facebook à votre WordPress"
+
+#. URI of the plugin
+msgid ""
+"http://xuxu.fr/2013/12/26/boobook-un-autre-facebook-connect-minimal-pour-"
+"wordpress/"
+msgstr ""
+"http://xuxu.fr/2013/12/26/boobook-un-autre-facebook-connect-minimal-pour-"
+"wordpress/"
+
+#. Author of the plugin
+msgid "xuxu.fr"
+msgstr "xuxu.fr"
+
+#. Author URI of the plugin
+msgid "https://xuxu.fr"
+msgstr "https://xuxu.fr"

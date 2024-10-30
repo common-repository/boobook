@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* +---------------------------------------------------------------------------------------------------+
+   | CSS fun
+   +---------------------------------------------------------------------------------------------------+ */
+button.inline-block { display: inline-block; }
+button.block { display: block; }
+
+/* +---------------------------------------------------------------------------------------------------+
+   | CSS widget
+   +---------------------------------------------------------------------------------------------------+ */
+.widget-connect .avatar {
+	display: block;
+	float: left;
+}
+.widget-connect .avatar img { border-radius: 1em; }
+.widget-connect .infos {
+	display: block;
+	float: left;
+	margin-left: .6em;
+}
+.widget-connect .infos .name { font-weight: bold; }
+.widget-connect .infos .name, .widget-connect .infos .logout { display: block; }
+
+/* +---------------------------------------------------------------------------------------------------+
+   | CSS content
+   +---------------------------------------------------------------------------------------------------+ */
+.clear { clear: both; }
